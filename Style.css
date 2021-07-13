@@ -1,1 +1,83 @@
-Yyy
+/* Created by Mahesh maddi */
+
+h1{
+    text-align:center ;
+    font-family: Florence, cursive;
+    text-decoration:underline ;
+    font-size:45px;
+}
+body{
+background-image: linear-gradient(to top, #cd9cf2 0%, #f6f3ff 100%);
+height:650px;
+} 
+/*textbox*/
+#e{
+    border-radius:4px; height:20px;
+    width:95%;
+    }
+#f{
+    border-radius:4px; height:20px;
+    width:95%;
+} 
+#g{
+    border-radius:4px; height:20px;
+    width:95%;
+}
+/*button code*/
+/*add*/
+#h{ margin-left:5px;
+   font-size:20px;
+   font-weight:bolder ;
+   width:150px;
+   height:40px;
+   color:white;
+   background-color:#1F45FC;
+   border-radius:6px;
+}
+/*sub*/
+#i{ 
+   
+   font-size:20px;
+   font-weight:bolder;
+   text-align:center;
+    width:150px;
+    height:40px;
+    color:white;
+    background-color:#1F45FC;
+    border-radius:6px;
+    margin-left:20px;
+}
+/*multi*/
+#j{
+    width:150px;
+    height:40px;
+    font-size:20px;
+    font-weight:bolder;
+    margin-top:20px;
+    margin-left:5px;
+    color:white;
+    background-color:#1F45FC;
+    border-radius:6px;
+} 
+/*div*/
+#k{
+    width:150px;
+    height:40px;
+    font-size:20px;
+    font-weight:bolder;
+    margin-left:20px;
+    color:white;
+    background-color:#1F45FC;
+    border-radius:6px;
+}
+/*clear*/
+#button1{ 
+  font-size:20px;
+  font-weight:bolder;
+   width:100%;
+   height:40px;
+   margin-top:20px;
+   color:white;
+   background-color:#1F45FC;
+   border-radius:6px;
+  }
